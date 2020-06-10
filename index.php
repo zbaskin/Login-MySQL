@@ -29,16 +29,7 @@
 
 </head>
 <body>
-<!--
-<div class="container">
-    <div id="signup" class="float-left">
-        <a href="signup.php"><button>Sign Up</button></a>
-    </div>
-    <div id="login">
-        <a href="login.php"><button>Login</button></a>
-    </div>
-</div>
--->
+
 <div class="container">
 
     <div id="myDIV" class="header">

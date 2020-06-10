@@ -70,8 +70,6 @@
     <a href="login.php"><h2 class="btn btn-danger">Already A Member? Sign In Here</h2></a>
 </div>
 
-
-
 <script src="js/pull-list.js"></script>
 </body>
 </html>

@@ -2,12 +2,6 @@
 
     session_start();
 
-    /*if (array_key_exists("logout", $_GET)) {
-        unset($_SESSION);
-        setcookie("id", "", time - 60*60);
-        $_COOKIE['id'] = "";
-    } else */
-
     if ((array_key_exists("id", $_SESSION) AND $_SESSION) OR (array_key_exists("id", $_COOKIE) AND $_COOKIE)) {
         header("Location: index.php");
     }
