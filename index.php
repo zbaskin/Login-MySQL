@@ -20,7 +20,7 @@
 
     <meta charset="UTF-8">
     <title>Pull List</title>
-    <link rel="icon" href="images/capshield.png">
+    <link rel="icon" href="z.png">
 
     <link rel="stylesheet" href="css/pull-list.css">
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
